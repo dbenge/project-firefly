@@ -2,9 +2,9 @@
 
 In this tutorial, we'll guide you through the following steps to give you an introduction on how to set up and develop a Project Firefly Application. 
 1. Setting up Local Environment
-1. Creating a new Project on [Adobe Developer Console](https://console.adobe.io/)
-1. Signing in from the [CLI](https://github.com/adobe/aio-cli)
-1. Bootstrapping new App using [CLI](https://github.com/adobe/aio-cli)
+1. Creating a new Project on Adobe Developer Console
+1. Signing in from the CLI
+1. Bootstrapping new App using CLI
 1. Anatomy of a Project Firefly Application
 1. Developing the Application
 1. Deploying the Application
